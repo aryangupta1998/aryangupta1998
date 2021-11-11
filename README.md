@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aryan
 - 👀 I’m interested in Open-source projects, DSA....
-- 🌱 I’m currently working on Apache Ozone and Apache Hadoop HDFS.
+- 🌱 I’m currently Apache Ozone Committer and contributing to Apache Ozone & Apache Hadoop HDFS.
 - 📫 Connect with me on LinkedIn - https://in.linkedin.com/in/aryan-gupta-ba2354152
 
 <!---
